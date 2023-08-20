@@ -20,6 +20,7 @@ Python 3.10, PyTelegramBotAPI, Python telegram bot pagination, dotenv, postgreSQ
 	`
     py -3.10 -m venv venv
     `
+  
     `
     . venv/Scripts/activate
     `
